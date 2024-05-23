@@ -1,6 +1,9 @@
 # UCI-Bootcamp-Final-Project-ML
 UCI Bootcamp Final Project - Machine Learning
 
+![dataset-cover](https://github.com/Adykey79/UCI-Bootcamp-Final-Project-ML/assets/149746353/1c9315f7-515a-4cbf-b190-8d212cd82783)
+
+
 Dataset Resource:
 https://www.kaggle.com/datasets/divyansh22/flight-delay-prediction?select=Jan_2020_ontime.csv
 
