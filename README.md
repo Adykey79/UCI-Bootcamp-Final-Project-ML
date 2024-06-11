@@ -2,9 +2,6 @@
 
 #### By: Ardavan Karbasi & Nithya Ravi
 
-![dataset-cover](https://github.com/Adykey79/UCI-Bootcamp-Final-Project-ML/assets/149746353/1c9315f7-515a-4cbf-b190-8d212cd82783)
-
-
 ![Slide1](https://github.com/Adykey79/UCI-Bootcamp-Final-Project-ML/assets/149746353/0c1cd3cb-6e2d-4c17-b757-5046fa519193)
 
 
