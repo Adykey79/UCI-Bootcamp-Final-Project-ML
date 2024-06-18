@@ -11,7 +11,19 @@
 ![Slide3](https://github.com/Adykey79/UCI-Bootcamp-Final-Project-ML/assets/149746353/959c36d8-c93b-47fc-aaf2-f6a11f4eadde)
 
 
-![Slide4](https://github.com/Adykey79/UCI-Bootcamp-Final-Project-ML/assets/149746353/dcd75a23-b113-48d0-b004-de490c539677)
+![UCI Project 4 Presentation - Predictive Analysis](https://github.com/Adykey79/UCI-Bootcamp-Final-Project-ML/assets/149746353/289c570d-86ed-4635-af0e-4200bfe0caa4)
+
+
+![UCI Project 4 Presentation - Predictive Analysis (1)](https://github.com/Adykey79/UCI-Bootcamp-Final-Project-ML/assets/149746353/21981669-9a8b-4d0b-b1f9-57cbbf8770ab)
+
+
+![UCI Project 4 Presentation - Predictive Analysis (2)](https://github.com/Adykey79/UCI-Bootcamp-Final-Project-ML/assets/149746353/a331a3c8-f1b6-4f32-bf71-717c51f30901)
+
+
+![UCI Project 4 Presentation - Predictive Analysis (3)](https://github.com/Adykey79/UCI-Bootcamp-Final-Project-ML/assets/149746353/acb10850-0dd6-44a7-aca1-1d159714ff0b)
+
+
+![UCI Project 4 Presentation - Predictive Analysis (4)](https://github.com/Adykey79/UCI-Bootcamp-Final-Project-ML/assets/149746353/adf9159c-1cb7-4d62-ab5d-be23376c1fe8)
 
 
 ![Slide5](https://github.com/Adykey79/UCI-Bootcamp-Final-Project-ML/assets/149746353/67ed33f8-1836-4ecb-8363-e95296f4c2fe)
